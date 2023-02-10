@@ -1,5 +1,7 @@
 import LinkedIn from '../assets/LinkedinLogo.svg'
 import Instagram from '../assets/InstagramLogo.svg'
+import './Footer.css'
+
 const Footer = ()=>{
     return (
         <>
