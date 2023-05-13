@@ -1,12 +1,10 @@
 import './App.css'
-import Hero from './Components/Hero'
-import Footer from './Components/Footer'
+import HomePage from './pages/HomePage'
 
 function App() {
   return (
-    <div className="App">
-        <Hero/>
-        <Footer/>
+    <div classNameName="App">
+       <HomePage/>
     </div>
   )
 }

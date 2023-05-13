@@ -5,7 +5,7 @@ import './Footer.css'
 const Footer = ()=>{
     return (
         <>
-              <div class="footer">
+              <div className="footer">
         <ul>
             <li>Prompt Generator</li>
             <li>Dweep Daily</li>
@@ -13,10 +13,10 @@ const Footer = ()=>{
             <li>Your data on Dweep.io</li>
             <li>Contribute to Dweep</li>
         </ul>
-        <ul class="footer-list2">
+        <ul className="footer-list2">
             <li>Dweep.io</li>
             <li>Made with love in India</li>
-            <li class="logo-list">
+            <li className="logo-list">
                 <img src={LinkedIn} />
                 <img src={Instagram}/>
             </li>
